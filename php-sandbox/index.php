@@ -3,7 +3,7 @@
 echo "webprog.ir";
 
 echo "test";
-echo "begin"
+echo "begin";
 
 $text = "new";
 echo $text;
