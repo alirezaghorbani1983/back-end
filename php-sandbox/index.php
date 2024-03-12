@@ -1,9 +1,6 @@
 <?php
 
-echo "webprog.ir";
-
-echo "test";
-echo "begin";
+echo "correct";
 
 $text = "new";
 echo $text;
